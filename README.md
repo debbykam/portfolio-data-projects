@@ -18,7 +18,7 @@ This project was written in Python and used Pandas, Numpy,Seaborn, OpenCV, Matpl
 
 This is a Tableau Workbook that analyzes the sales in a food factory in the United States which sells 9 different products divided into 3 categories in 4 different cities
 
-The Dashboard of this workbook can be found at my Tableau profile at https://public.tableau.com/app/profile/deborah.ka
+The Dashboard of this workbook can be found at my Tableau profile at https://public.tableau.com/app/profile/deborah.kaminer
 
 
 
